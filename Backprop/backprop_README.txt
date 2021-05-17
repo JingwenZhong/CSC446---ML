@@ -12,12 +12,12 @@ What criteria did you use for selecting the best ones?
 		the ratio of the number of samples correctly classified by the model to the total number of samples 
 		is calculated to measure the effect of the model. The goal is to measure the effect of the model.
 
-	T	o update our model parameters, we can calculation of the loss function, 
+	To update our model parameters, we can calculation of the loss function, 
 		the goal is to reduce the optimization error (Optimization error), 
 		to reduce the empirical risk of the model under the combined action 
 		of the loss function and the optimization algorithm.
 
-Please also include the results from all of those experiments.
+Please also include the results from all of those experiments:
 	see pic Zhong_backprop_loss.npg and pic Zhong_backprop_accu.npg
 
 Discuss the results: Do they make sense?

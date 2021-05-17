@@ -1,4 +1,4 @@
-CSC446 Machine Learning - HW 7 - Jingwen Zhong
+CSC446 Machine Learning - HW 7
 
 1. Init_model:
 
